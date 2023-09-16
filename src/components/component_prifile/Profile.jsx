@@ -42,4 +42,3 @@ export const  UserProfile = ({imgUrl, username, tag, location, followers, views,
     views: PropTypes.number.isRequired,
     likes: PropTypes.number.isRequired,
    }
-//    export default UserProfile;
