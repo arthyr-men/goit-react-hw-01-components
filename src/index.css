@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+
 
 body {
   margin: 0;
@@ -78,7 +78,7 @@ img {
   flex-direction: column;
   align-items: center;
   gap: 100px;
-  background-color: #ddd5d6;
+  background-color: #9ec9f1;
   max-width: 1158px;
   padding: 100px 15px;
   margin-left:  auto;
